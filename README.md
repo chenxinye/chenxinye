@@ -15,7 +15,6 @@ I am a Postdoctoral Researcher at **Sorbonne University (LIP6, CNRS)**. My work 
 My core mission is developing **efficient algorithms via science and sustainability**, focusing on optimizing the trade-offs between accuracy, performance, and energy efficiency for the next generation of supercomputers.
 
 - 🎓 **PhD in Applied Mathematics** from the University of Manchester.
-- 🏛️ President of the Manchester SIAM-IMA Student Chapter (2022-2024).
 - 💡 **Research Interests:** Mixed-precision Algorithms, Tensor Computations, Spatio-Temporal Data Modeling, and Iterative Methods.
 
 
