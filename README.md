@@ -62,14 +62,6 @@ Here are some of the key open-source projects I have developed or contributed to
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenxinye&show_icons=true&theme=nord&hide_border=true" alt="Xinye's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxinye&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## ✉️ Connect with Me
 - 🌐 [Official Website](https://xinyechen.com/)
 - 📧 [Email](mailto:xinyechenai@gmail.com)
