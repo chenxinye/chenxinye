@@ -1,5 +1,5 @@
 # Hi there, I'm Xinye Chen 👋
-### Postdoctoral Researcher at Sorbonne University (LIP6, CNRS)
+### Researcher at Sorbonne University (LIP6, CNRS)
 
 <p align="left">
   <a href="https://xinyechen.com/"><img src="https://img.shields.io/badge/Website-xinyechen.com-blue?style=flat-square&logo=google-chrome" alt="Website"></a>
