@@ -1,5 +1,5 @@
-# Hi there, I'm Xinye Chen  👋
-### Chartered Mathematician | Postdoctoral Researcher at Sorbonne University (LIP6)
+# Hi there, I'm Xinye Chen 👋
+### Postdoctoral Researcher at Sorbonne University (LIP6, CNRS)
 
 <p align="left">
   <a href="https://xinyechen.com/"><img src="https://img.shields.io/badge/Website-xinyechen.com-blue?style=flat-square&logo=google-chrome" alt="Website"></a>
@@ -10,44 +10,55 @@
 ---
 
 ## 🧬 About Me
-I am a **Chartered Mathematician (CMath)** and a Postdoctoral Researcher at **Sorbonne University (LIP6, CNRS)**. My work sits at the intersection of **Numerical Linear Algebra**, **High-Performance Computing (HPC)**, and **Machine Learning**. 
+I am a Postdoctoral Researcher at **Sorbonne University (LIP6, CNRS)**. My work sits at the intersection of **Numerical Linear Algebra**, **High-Performance Computing (HPC)**, and **Machine Learning**. 
 
 My core mission is developing **efficient algorithms via science and sustainability**, focusing on optimizing the trade-offs between accuracy, performance, and energy efficiency for the next generation of supercomputers.
 
 - 🎓 **PhD in Applied Mathematics** from the University of Manchester.
-- 🇫🇷 Currently working on the **NumPEx (France 2030)** project for Exascale computing software stacks.
-- 🇪🇺 Previously involved in the **inEXASCALE (ERC)** project at Charles University.
 - 🏛️ President of the Manchester SIAM-IMA Student Chapter (2022-2024).
+- 💡 **Research Interests:** Mixed-precision Algorithms, Tensor Computations, Spatio-Temporal Data Modeling, and Iterative Methods.
 
 ---
 
-## 🚀 Research Interests & Expertise
+## 🌍 Major Research Projects
+I am actively involved in leading scientific programs shaping the future of computing:
 
-### 🔢 Numerical Linear Algebra & Scientific Computing
-* **Mixed-precision Algorithms:** Precision auto-tuning and error analysis for HPC.
-* **Low-rank Approximation:** Tensor decomposition (t-SVD) and completion for big data.
-* **Iterative Methods:** Sparse linear system solvers and preconditioning.
+- 🇫🇷 **[NumPEx (France 2030) - Exa-MA](https://numpex.org/)** *(Oct 2024 - Present)*
+  Key project of the European High-Performance Computing Joint Undertaking (EuroHPC). I contribute to developing the software stack and mathematical algorithms for the next generation of **Exascale supercomputers**.
+- 🇪🇺 **[inEXASCALE (ERC)](https://inexascale.github.io/)** *(Sep 2023 - Oct 2024)*
+  An EU-funded project aiming to rethink algorithm design in the Exascale era. The research focuses on the combined effects of multiple sources of inexactness (e.g., lower precision) to develop fast and provably accurate algorithms.
 
-### 🤖 Applied Machine Learning
-* **Spatio-Temporal Analysis:** Time series forecasting and urban data modeling.
-* **Graph Representation Learning:** Leveraging mathematical structures for deep learning.
-* **Optimization:** Developing provably accurate and fast algorithms.
+---
+
+## 💻 Open Source Contributions
+
+Here are some of the key open-source projects I have developed or contributed to, spanning across High-Performance Computing, Time Series Analysis, Clustering, and Numerical Linear Algebra:
+
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| ⚡ **[hpc-mix-bench](https://github.com/PEQUAN/hpc-mix-bench)** | HPC & Precision | Benchmarking tools for mixed-precision High-Performance Computing *(PEQUAN/LIP6)*. |
+| 🛠️ **[pychop](https://github.com/inEXASCALE/pychop)** | HPC & Precision | A Python package for simulating low-precision arithmetic and rounding modes in numerical algorithms. |
+| 📈 **[fABBA](https://github.com/nla-group/fABBA)** | Time Series | Fast Adaptive Brownian bridge-based symbolic Aggregation for time series discretization and representation. |
+| 🤖 **[llm-abba](https://github.com/inEXASCALE/llm-abba)** | Time Series & LLMs | Leveraging Large Language Models (LLMs) with ABBA for advanced time series forecasting and analysis. |
+| 🧠 **[classix](https://github.com/nla-group/classix)** | Clustering | A fast, highly scalable, and explainable clustering algorithm based on sorting. |
+| 🚀 **[cusnn](https://github.com/nla-group/cusnn)** & **[snn](https://github.com/nla-group/snn)** | Data Mining | Implementations (including CUDA-accelerated) for Shared Nearest Neighbor (SNN) clustering algorithms. |
+| 🔢 **[blrmat](https://github.com/chenxinye/blrmat)** | Linear Algebra | Tools and efficient implementations for Block Low-Rank (BLR) matrix approximations. |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** `C/C++`, `Python`, `Julia`, `MATLAB`, `R`, `CUDA`, `Shell`
-- **Frameworks:** `PyTorch`, `LLVM`, `TensorFlow`, `CMake`, `OpenMP`, `MPI`
-- **Libraries:** `BLAS/LAPACK`, `MKL`, `cuBLAS`, `JAX`
-- **Specialties:** Performance Profiling, Numerical Error Analysis, Parallel Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2F++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LLVM-%23000000.svg?style=flat-square&logo=llvm&logoColor=white" alt="LLVM" />
+</p>
 
----
-
-## 📊 Major Projects
-- **NumPEx Exa-MA:** Building the French software stack for Exascale computing.
-- **inEXASCALE:** Rethinking algorithm design in the era of multiple sources of inexactness.
-- **Tensor Toolbox (Personal/Research):** Efficient implementations of high-dimensional data processing.
+- **Core Skills:** Performance Profiling, Mixed-Precision Computing, Numerical Error Analysis, Parallel Programming.
+- **Libraries/Frameworks:** `CMake`, `OpenMP`, `MPI`, `BLAS/LAPACK`, `cuBLAS`, `JAX`.
 
 ---
 
