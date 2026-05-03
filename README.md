@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://xinyechen.com/"><img src="https://img.shields.io/badge/Website-xinyechen.com-blue?style=flat-square&logo=google-chrome" alt="Website"></a>
-  <a href="[https://scholar.google.com/citations?user=Gf6G9_8AAAAJ](https://scholar.google.com/citations?user=0d1Gc0wAAAAJ)"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat-square&logo=google-scholar" alt="Scholar"></a>
+  <a href="https://scholar.google.com/citations?user=0d1Gc0wAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat-square&logo=google-scholar" alt="Scholar"></a>
   <a href="https://www.linkedin.com/in/xinye-chen/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
