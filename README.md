@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://xinyechen.com/"><img src="https://img.shields.io/badge/Website-xinyechen.com-blue?style=flat-square&logo=google-chrome" alt="Website"></a>
-  <a href="https://scholar.google.com/citations?user=Gf6G9_8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat-square&logo=google-scholar" alt="Scholar"></a>
+  <a href="[https://scholar.google.com/citations?user=Gf6G9_8AAAAJ](https://scholar.google.com/citations?user=0d1Gc0wAAAAJ)"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat-square&logo=google-scholar" alt="Scholar"></a>
   <a href="https://www.linkedin.com/in/xinye-chen/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
@@ -25,7 +25,7 @@ I am actively involved in leading scientific programs shaping the future of comp
 
 - 🇫🇷 **[NumPEx (France 2030) - Exa-MA](https://numpex.org/)** *(Oct 2024 - Present)*
   Key project of the European High-Performance Computing Joint Undertaking (EuroHPC). I contribute to developing the software stack and mathematical algorithms for the next generation of **Exascale supercomputers**.
-- 🇪🇺 **[inEXASCALE (ERC)](https://inexascale.github.io/)** *(Sep 2023 - Oct 2024)*
+- 🇪🇺 **[inEXASCALE (ERC)]([https://inexascale.github.io/](https://cordis.europa.eu/project/id/101075632))** *(Sep 2023 - Oct 2024)*
   An EU-funded project aiming to rethink algorithm design in the Exascale era. The research focuses on the combined effects of multiple sources of inexactness (e.g., lower precision) to develop fast and provably accurate algorithms.
 
 ---
