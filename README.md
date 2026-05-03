@@ -18,15 +18,6 @@ My core mission is developing **efficient algorithms via science and sustainabil
 - 🏛️ President of the Manchester SIAM-IMA Student Chapter (2022-2024).
 - 💡 **Research Interests:** Mixed-precision Algorithms, Tensor Computations, Spatio-Temporal Data Modeling, and Iterative Methods.
 
----
-
-## 🌍 Major Research Projects
-I am actively involved in leading scientific programs shaping the future of computing:
-
-- 🇫🇷 **[NumPEx (France 2030) - Exa-MA](https://numpex.org/)** *(Oct 2024 - Present)*
-  Key project of the European High-Performance Computing Joint Undertaking (EuroHPC). I contribute to developing the software stack and mathematical algorithms for the next generation of **Exascale supercomputers**.
-- 🇪🇺 **[inEXASCALE (ERC)](https://cordis.europa.eu/project/id/101075632)** *(Sep 2023 - Oct 2024)*
-  An EU-funded project aiming to rethink algorithm design in the Exascale era. The research focuses on the combined effects of multiple sources of inexactness (e.g., lower precision) to develop fast and provably accurate algorithms.
 
 ---
 
@@ -59,6 +50,17 @@ Here are some of the key open-source projects I have developed or contributed to
 
 - **Core Skills:** Performance Profiling, Mixed-Precision Computing, Numerical Error Analysis, Parallel Programming.
 - **Libraries/Frameworks:** `CMake`, `OpenMP`, `MPI`, `BLAS/LAPACK`, `cuBLAS`, `JAX`.
+
+---
+
+## 🌍 Major Research Projects
+I am actively involved in leading scientific programs shaping the future of computing:
+
+- 🇫🇷 **[NumPEx (France 2030) - Exa-MA](https://numpex.org/)** *(Oct 2024 - Present)*
+  Key project of the European High-Performance Computing Joint Undertaking (EuroHPC). I contribute to developing the software stack and mathematical algorithms for the next generation of **Exascale supercomputers**.
+- 🇪🇺 **[inEXASCALE (ERC)](https://cordis.europa.eu/project/id/101075632)** *(Sep 2023 - Oct 2024)*
+  An EU-funded project aiming to rethink algorithm design in the Exascale era. The research focuses on the combined effects of multiple sources of inexactness (e.g., lower precision) to develop fast and provably accurate algorithms.
+
 
 ---
 
