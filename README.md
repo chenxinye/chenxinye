@@ -66,7 +66,7 @@ I am actively involved in leading scientific programs shaping the future of comp
 ## ✉️ Connect with Me
 - 🌐 [Official Website](https://xinyechen.com/)
 - 📧 [Email](mailto:xinyechenai@gmail.com)
-- 🐦 [Twitter/X](https://twitter.com/xinyechen_ai)
+- 🐦 [Twitter/X](https://x.com/chenxinye2)
 
 *"Mathematics is the music of reason."*
 
