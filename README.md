@@ -34,8 +34,9 @@ Here are some of the key open-source projects I have developed or contributed to
 | 🧠 **[classix](https://github.com/nla-group/classix)** | Clustering | A fast, highly scalable, and explainable clustering algorithm based on sorting. |
 | 🚀 **[cusnn](https://github.com/nla-group/cusnn)** & **[snn](https://github.com/nla-group/snn)** | Data Mining | Implementations (including CUDA-accelerated) for Shared Nearest Neighbor (SNN) clustering algorithms. |
 | 🔢 **[blrmat](https://github.com/chenxinye/blrmat)** | Linear Algebra | Tools and efficient implementations for Block Low-Rank (BLR) matrix approximations. |
----
 | 🎲 **[DSArith.jl](https://github.com/chenxinye/DSArith.jl)** | Numerical Reliability & Precision | A Julia package for Discrete Stochastic Arithmetic and CESTAC-style numerical reliability diagnostics. |
+---
+
 
 ## 🛠️ Tech Stack & Tools
 
