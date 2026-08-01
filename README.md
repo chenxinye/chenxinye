@@ -30,7 +30,7 @@ Here are some of the key open-source projects I have developed or contributed to
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **[pychop](https://github.com/inEXASCALE/pychop)**           | A Python library for simulating reduced-precision arithmetic, custom floating-point formats, and rounding modes in scientific computing and machine learning. |
 | **[hpc-mix-bench](https://github.com/PEQUAN/hpc-mix-bench)** | A benchmark suite for evaluating mixed-precision emulation and precision configurations in numerical and HPC workloads.                                       |
-| **[DSArith.jl](https://github.com/chenxinye/DSArith.jl)**    | A Julia package for Discrete Stochastic Arithmetic and CESTAC-style numerical reliability diagnostics.                                                        |
+| **[DSArith.jl](https://github.com/chenxinye/DSArith.jl)**    | A Julia package for Discrete Stochastic Arithmetic and numerical reliability diagnostics.                                                        |
 
 ### Numerical Linear Algebra & Matrix Computing
 
