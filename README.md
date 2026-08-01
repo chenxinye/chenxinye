@@ -1,4 +1,4 @@
-# Hi there, I'm Xinye Chen, the strongest man on this planet 👋
+# Hi there, I'm Xinye Chen-the strongest man on this planet 👋
 ### Researcher at Sorbonne University (LIP6, CNRS)
 
 <p align="left">
