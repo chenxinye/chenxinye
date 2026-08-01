@@ -24,32 +24,36 @@ My core mission is developing **efficient algorithms via science and sustainabil
 
 Here are some of the key open-source projects I have developed or contributed to, spanning across High-Performance Computing, Time Series Analysis, Clustering, and Numerical Linear Algebra:
 
-| Project | Category | Description |
-| :--- | :--- | :--- |
-|  **[pychop](https://github.com/inEXASCALE/pychop)** | HPC & Precision | A Python package for simulating low-precision arithmetic and rounding modes in numerical algorithms. |
-|  **[llm-abba](https://github.com/inEXASCALE/llm-abba)** | Time Series & LLMs | Leveraging Large Language Models (LLMs) with ABBA for advanced time series forecasting and analysis. |
-|  **[classix](https://github.com/nla-group/classix)** | Clustering | A fast, highly scalable, and explainable clustering algorithm based on sorting. |
-|  **[sparse-kappa](https://github.com/inEXASCALE/sparse-kappa)**  | Linear Algebra & ML | CPU/GPU-accelerated condition-number estimation for sparse matrices, combining classical numerical methods with GNN-based predictors in PyTorch. |
-|  **[hpc-mix-bench](https://github.com/PEQUAN/hpc-mix-bench)** | HPC & Precision | Benchmarking tools for mixed-precision High-Performance Computing *(PEQUAN/LIP6)*. |
-|  **[mhodlr](https://github.com/chenxinye/mhodlr)** | Linear Algebra | Implementations and algorithms for Hierarchical Off-Diagonal Low-Rank (HODLR) matrices. |
-|  **[fabba](https://github.com/nla-group/fABBA)** | Time Series | Fast Adaptive Brownian bridge-based symbolic Aggregation for time series discretization and representation. |
-|  **[cusnn](https://github.com/nla-group/cusnn)** & **[snn](https://github.com/nla-group/snn)** | Data Mining | Implementations (including CUDA-accelerated) for Shared Nearest Neighbor (SNN) clustering algorithms. |
-|  **[blrmat](https://github.com/chenxinye/blrmat)** | Linear Algebra | Tools and efficient implementations for Block Low-Rank (BLR) matrix approximations. |
-|  **[DSArith.jl](https://github.com/chenxinye/DSArith.jl)** | Numerical Reliability & Precision | A Julia package for Discrete Stochastic Arithmetic and CESTAC-style numerical reliability diagnostics. |
----
+### Numerical Computing & Precision
 
-| Project                                                                                       | Category                          | Description                                                                                                                                      |
-| :-------------------------------------------------------------------------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[hpc-mix-bench](https://github.com/PEQUAN/hpc-mix-bench)**                                  | HPC & Precision                   | Benchmarking tools for mixed-precision High-Performance Computing *(PEQUAN/LIP6)*.                                                               |
-| **[pychop](https://github.com/inEXASCALE/pychop)**                                            | HPC & Precision                   | A Python package for simulating low-precision arithmetic and rounding modes in numerical algorithms.                                             |
-| **[mhodlr](https://github.com/chenxinye/mhodlr)**                                             | Linear Algebra                    | Implementations and algorithms for Hierarchical Off-Diagonal Low-Rank (HODLR) matrices.                                                          |
-| **[fabba](https://github.com/nla-group/fABBA)**                                               | Time Series                       | Fast Adaptive Brownian bridge-based symbolic Aggregation for time series discretization and representation.                                      |
-| **[llm-abba](https://github.com/inEXASCALE/llm-abba)**                                        | Time Series & LLMs                | Leveraging Large Language Models (LLMs) with ABBA for advanced time series forecasting and analysis.                                             |
-| **[classix](https://github.com/nla-group/classix)**                                           | Clustering                        | A fast, highly scalable, and explainable clustering algorithm based on sorting.                                                                  |
-| **[cusnn](https://github.com/nla-group/cusnn)** & **[snn](https://github.com/nla-group/snn)** | Data Mining                       | Implementations (including CUDA-accelerated) for Shared Nearest Neighbor (SNN) clustering algorithms.                                            |
-| **[blrmat](https://github.com/chenxinye/blrmat)**                                             | Linear Algebra                    | Tools and efficient implementations for Block Low-Rank (BLR) matrix approximations.                                                              |
+| Project                                                      | Description                                                                                                                                                   |
+| :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[pychop](https://github.com/inEXASCALE/pychop)**           | A Python library for simulating reduced-precision arithmetic, custom floating-point formats, and rounding modes in scientific computing and machine learning. |
+| **[hpc-mix-bench](https://github.com/PEQUAN/hpc-mix-bench)** | A benchmark suite for evaluating mixed-precision emulation and precision configurations in numerical and HPC workloads.                                       |
+| **[DSArith.jl](https://github.com/chenxinye/DSArith.jl)**    | A Julia package for Discrete Stochastic Arithmetic and CESTAC-style numerical reliability diagnostics.                                                        |
 
-| **[DSArith.jl](https://github.com/chenxinye/DSArith.jl)**                                     | Numerical Reliability & Precision | A Julia package for Discrete Stochastic Arithmetic and CESTAC-style numerical reliability diagnostics.                                           |
+### Numerical Linear Algebra & Matrix Computing
+
+| Project                                                        | Description                                                                                                                                        |
+| :------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[sparse-kappa](https://github.com/inEXASCALE/sparse-kappa)** | GPU-accelerated condition-number estimation for sparse matrices using PyTorch, combining classical numerical estimators with GNN-based prediction. |
+| **[mhodlr](https://github.com/chenxinye/mhodlr)**              | HODLR matrix computations with support for multiple- and mixed-precision arithmetic and efficient structured linear algebra operations.            |
+| **[blrmat](https://github.com/chenxinye/blrmat)**              | Block Low-Rank (BLR) matrix formats and solvers for efficient structured matrix computations.                                                      |
+
+### Time Series & Symbolic AI
+
+| Project                                                | Description                                                                                                                          |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| **[fABBA](https://github.com/nla-group/fABBA)**        | A Python library for fast symbolic approximation, compression, digitization, and representation of time series.                      |
+| **[llm-abba](https://github.com/inEXASCALE/llm-abba)** | LLM-assisted symbolic time-series analysis using ABBA representations for tasks such as classification, forecasting, and regression. |
+
+### Clustering & Nearest-Neighbor Methods
+
+| Project                                                                                       | Description                                                                                              |
+| :-------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **[classix](https://github.com/nla-group/classix)**                                           | A fast, scalable, and explainable clustering algorithm based on sorting, aggregation, and group merging. |
+| **[cusnn](https://github.com/nla-group/cusnn)** & **[snn](https://github.com/nla-group/snn)** | CPU and CUDA-accelerated implementations for fast fixed-radius nearest-neighbor search based on sorting. |
+
 
 ## 🛠️ Tech Stack & Tools
 
