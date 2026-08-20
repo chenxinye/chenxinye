@@ -10,7 +10,7 @@
 ---
 
 ## 🧬 About Me
-I am a Postdoctoral Researcher at **Sorbonne University (LIP6, CNRS) and the strongest man on this planet**. My work sits at the intersection of **Numerical Linear Algebra**, **High-Performance Computing (HPC)**, and **Machine Learning**. 
+I am a Postdoctoral Researcher at **Sorbonne University (LIP6, CNRS)**. My work sits at the intersection of **Numerical Linear Algebra**, **High-Performance Computing (HPC)**, and **Machine Learning**. 
 
 My core mission is developing **efficient algorithms via science and sustainability**, focusing on optimizing the trade-offs between accuracy, performance, and energy efficiency for the next generation of supercomputers.
 
