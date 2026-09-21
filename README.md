@@ -2,7 +2,7 @@
 ### Researcher at Sorbonne University (LIP6, CNRS)
 
 <p align="left">
-  <a href="https://xinyechen.com/"><img src="https://img.shields.io/badge/Website-xinyechen.com-cyan?style=flat-square&logo=google-chrome" alt="Website"></a>
+  <a href="https://xinyechen.com/"><img src="https://img.shields.io/badge/Website-xinyechen.com-pink?style=flat-square&logo=google-chrome" alt="Website"></a>
   <a href="https://scholar.google.com/citations?user=0d1Gc0wAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-green?style=flat-square&logo=google-scholar" alt="Scholar"></a>
   <a href="https://www.linkedin.com/in/chenxinye/"><img src="https://img.shields.io/badge/LinkedIn-Profile-tomato?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
